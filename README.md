@@ -2,7 +2,7 @@
 <b>SIMPLE STEPS TO IMPLEMENT THE BOT<b>
     <ol>
       <li>create a file for a bot</li>
-      <p>In command prompt execute the following commands:</p>
+      In command prompt execute the following commands:
       <li>cd directory</li>
       <li>conda create --name chatbotvenv python==3.7.6</li>
       <li>conda activate chatbotvenv</li>
