@@ -1,6 +1,6 @@
 # Developed a chatbot using RASA 
 <b>SIMPLE STEPS TO IMPLEMENT THE BOT<b>
-In command prompt execute the following commands
+   <p>In command prompt execute the following commands</p>
    <ol>
       <li>cd directory(save a file named as chatbot)</li> 
       <li>conda create --name chatbotvenv python==3.7.6</li>
