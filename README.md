@@ -1,7 +1,6 @@
 # chatbot
 <b>SIMPLE STEPS TO IMPLEMENT THE BOT<b>
     <ol>
-        
       <li>create a file for a bot and download the files in the file</li>
       In command prompt execute the following commands:
       <li>cd directory</li>
