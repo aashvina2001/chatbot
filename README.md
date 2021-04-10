@@ -1,7 +1,8 @@
 # chatbot
 <b>SIMPLE STEPS TO IMPLEMENT THE BOT<b>
     <ol>
-      <li>create a file for a bot</li>
+        
+      <li>create a file for a bot and download the files in the file</li>
       In command prompt execute the following commands:
       <li>cd directory</li>
       <li>conda create --name chatbotvenv python==3.7.6</li>
@@ -11,4 +12,4 @@
       <li>pip install rasa==1.10.0</li>
       <li>rasa init</li>
   </ol>
-  
+ 
